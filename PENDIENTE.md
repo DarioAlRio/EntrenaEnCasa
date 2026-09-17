@@ -32,7 +32,7 @@ resultados por separado:
 2. Añadir la URL publicada en `afiliados.amazon.es` → "Tus páginas web o
    apps" (el mismo panel donde ya está `escritorioideal.vercel.app`).
 3. Crear un tracking ID nuevo en "Administrar seguimiento de ID" (por
-   ejemplo `entrenaencasa-21`) y sustituir el placeholder `TUTAG2-21` en
+   ejemplo `entrenaencasa-21`) y sustituir el placeholder `entrenaencasa00-21` en
    `SITE.amazonTag` (`_build/nav.js`) por el real.
 4. Las 3 ventas cualificadas en 180 días son **por cuenta**, no por sitio:
    ya corre el mismo plazo que para EscritorioIdeal, esta web solo suma
