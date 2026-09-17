@@ -16,7 +16,7 @@ const SITE = {
   // Tag de afiliado de Amazon: PENDIENTE crear un tracking ID nuevo para este
   // sitio desde el panel de afiliados ("Administrar seguimiento de ID") y
   // añadir esta URL a "Tus páginas web". Ver PENDIENTE.md.
-  amazonTag: "TUTAG2-21",
+  amazonTag: "entrenaencasa00-21",
   amazonDisclaimer:
     "Como Afiliado de Amazon, EntrenaEnCasa obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.",
   social: {
