@@ -12,7 +12,6 @@ const SITE = {
   domain: "https://entrena-en-casa-beige.vercel.app",
   locale: "es_ES",
   lang: "es",
-  email: "hola@entrenaencasa.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
   // Tag de afiliado de Amazon: PENDIENTE crear un tracking ID nuevo para este
   // sitio desde el panel de afiliados ("Administrar seguimiento de ID") y
   // añadir esta URL a "Tus páginas web". Ver PENDIENTE.md.
