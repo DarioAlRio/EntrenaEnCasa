@@ -9,7 +9,7 @@ const SITE = {
   description:
     "Guías de compra y comparativas independientes de mancuernas, esterillas, bandas elásticas y equipamiento de fitness para entrenar en casa sin gastar de más.",
   // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://entrenaencasa.vercel.app",
+  domain: "https://entrena-en-casa-beige.vercel.app",
   locale: "es_ES",
   lang: "es",
   email: "hola@entrenaencasa.es", // PENDIENTE: crear buzón real, ver PENDIENTE.md
@@ -36,6 +36,7 @@ const SITE = {
 // se listan los grupos y los enlaces fijos.
 const NAV = [
   { label: "Guías de compra", href: "/guias/" },
+  { label: "Productos", href: "/productos/" },
   { label: "Blog", href: "/blog/" },
 ];
 
