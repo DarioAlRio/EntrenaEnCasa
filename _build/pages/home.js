@@ -97,27 +97,32 @@ function home() {
 
   <section class="section trust-section">
     <div class="wrap trust-grid">
-      <div>
-        <h2>¿Por qué esta web?</h2>
-        <p>
-          Montar un gimnasio en casa implica decidir sobre equipo que no se prueba en cinco
-          minutos: unas mancuernas, un banco o una esterilla se notan de verdad a la tercera
-          semana de uso, no en la tienda. ${SITE.name} reúne los criterios que importan de cada
-          tipo de producto para que la decisión no dependa de adivinar.
-        </p>
-        <p>
-          No inventamos comparativas de modelos concretos que no hemos podido revisar con
-          criterio: cada guía explica qué características buscar y por qué, de forma que sirva
-          para comparar cualquier producto, lo compres donde lo compres.
-        </p>
+      <div class="trust-media">
+        <img src="/assets/img/trust-bg.jpg" alt="Rincón de entrenamiento en casa con material de fuerza" loading="lazy" width="600" height="700">
       </div>
-      <div class="trust-card">
-        <h3>Cómo se financia esta web</h3>
-        <p>${SITE.amazonDisclaimer}</p>
-        <p class="trust-note">
-          Enlazar a un producto no cambia su precio para ti ni implica que sea el único
-          recomendable: es una forma de sostener el tiempo que lleva escribir cada guía.
-        </p>
+      <div class="trust-content">
+        <div>
+          <h2>¿Por qué esta web?</h2>
+          <p>
+            Montar un gimnasio en casa implica decidir sobre equipo que no se prueba en cinco
+            minutos: unas mancuernas, un banco o una esterilla se notan de verdad a la tercera
+            semana de uso, no en la tienda. ${SITE.name} reúne los criterios que importan de cada
+            tipo de producto para que la decisión no dependa de adivinar.
+          </p>
+          <p>
+            No inventamos comparativas de modelos concretos que no hemos podido revisar con
+            criterio: cada guía explica qué características buscar y por qué, de forma que sirva
+            para comparar cualquier producto, lo compres donde lo compres.
+          </p>
+        </div>
+        <div class="trust-card">
+          <h3>Cómo se financia esta web</h3>
+          <p>${SITE.amazonDisclaimer}</p>
+          <p class="trust-note">
+            Enlazar a un producto no cambia su precio para ti ni implica que sea el único
+            recomendable: es una forma de sostener el tiempo que lleva escribir cada guía.
+          </p>
+        </div>
       </div>
     </div>
   </section>
