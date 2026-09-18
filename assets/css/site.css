@@ -218,13 +218,16 @@ table { border-collapse: collapse; width: 100%; }
 .card p { color: var(--color-ink-muted); font-size: 0.95rem; margin-bottom: 4px; }
 .card-cta { display: inline-flex; align-items: center; gap: 6px; margin-top: auto; font-weight: 600; color: var(--color-brand-dark); }
 
-.card.guide-card { padding: 0; gap: 0; overflow: hidden; }
-.guide-card-img { width: 100%; aspect-ratio: 16 / 10; object-fit: contain; background: #fff; border-bottom: 1px solid var(--color-border); }
-.guide-card-body { display: flex; flex-direction: column; gap: 8px; padding: 20px 24px 24px; }
+.card.guide-card, .card.article-card { padding: 0; gap: 0; overflow: hidden; }
+.guide-card-img, .article-card-img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; border-bottom: 1px solid var(--color-border); }
+.guide-card-body, .article-card-body { display: flex; flex-direction: column; gap: 8px; padding: 20px 24px 24px; }
 
 /* --- Confianza / por qué esta web ---------------------------------------------- */
 
-.trust-grid { display: grid; grid-template-columns: 1.2fr 0.8fr; gap: 40px; align-items: start; }
+.trust-grid { display: grid; grid-template-columns: 0.8fr 1.2fr; gap: 40px; align-items: start; }
+.trust-media { border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md); align-self: stretch; }
+.trust-media img { width: 100%; height: 100%; min-height: 260px; object-fit: cover; display: block; }
+.trust-content { display: flex; flex-direction: column; gap: 24px; }
 .trust-card {
   background: var(--color-brand-tint); border-radius: var(--radius-md);
   padding: 28px; border: 1px solid color-mix(in srgb, var(--color-brand) 25%, transparent);
@@ -246,6 +249,11 @@ table { border-collapse: collapse; width: 100%; }
 .page-hero h1 { font-size: clamp(1.7rem, 1.3rem + 1.6vw, 2.5rem); max-width: 26ch; }
 .hero-dek { color: var(--color-ink-muted); }
 .updated { font-size: 0.85rem; color: var(--color-ink-muted); margin-top: 8px; }
+.page-hero-wrap-img { display: grid; grid-template-columns: 1.3fr 1fr; gap: 32px; align-items: center; }
+.page-hero-img {
+  width: 100%; height: 220px; object-fit: cover; border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
 
 /* --- Contenido / artículo ---------------------------------------------------------- */
 
@@ -371,6 +379,9 @@ table { border-collapse: collapse; width: 100%; }
   .two-col { grid-template-columns: 1fr; }
   .sidebar { position: static; }
   .trust-grid { grid-template-columns: 1fr; }
+  .trust-media img { min-height: 200px; }
+  .page-hero-wrap-img { grid-template-columns: 1fr; }
+  .page-hero-img { height: 200px; }
 }
 @media (max-width: 560px) {
   .foot-grid { grid-template-columns: 1fr; }

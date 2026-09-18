@@ -136,13 +136,16 @@ function breadcrumbs(items) {
   </nav>`;
 }
 
-function pageHero({ eyebrow, title, dek, updated }) {
+function pageHero({ eyebrow, title, dek, updated, image, imageAlt }) {
   return `<section class="page-hero">
-    <div class="wrap">
-      ${eyebrow ? `<p class="eyebrow">${eyebrow}</p>` : ""}
-      <h1>${title}</h1>
-      ${dek ? `<p class="hero-dek">${dek}</p>` : ""}
-      ${updated ? `<p class="updated">Actualizado el ${formatDate(updated)}</p>` : ""}
+    <div class="wrap${image ? " page-hero-wrap-img" : ""}">
+      <div class="page-hero-copy">
+        ${eyebrow ? `<p class="eyebrow">${eyebrow}</p>` : ""}
+        <h1>${title}</h1>
+        ${dek ? `<p class="hero-dek">${dek}</p>` : ""}
+        ${updated ? `<p class="updated">Actualizado el ${formatDate(updated)}</p>` : ""}
+      </div>
+      ${image ? `<img class="page-hero-img" src="${image}" alt="${escapeHtml(imageAlt || "")}" loading="lazy" width="480" height="320">` : ""}
     </div>
   </section>`;
 }

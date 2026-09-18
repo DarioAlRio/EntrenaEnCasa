@@ -10,6 +10,7 @@ const GUIDES = [
     slug: "mancuernas-ajustables",
     title: "Cómo elegir mancuernas para entrenar en casa",
     dek: "Fijas, ajustables o con discos: qué formato compensa según tu nivel y el espacio que tienes.",
+    img: "/assets/img/guias/mancuernas-ajustables.jpg",
     updated: "2026-09-15",
     intro: [
       "El error más caro al comprar mancuernas es acertar con el peso de hoy y quedarte corto en tres meses. Progresar en fuerza es el objetivo de cualquier rutina, así que el formato que elijas debería acompañar esa progresión, no obligarte a comprar otra vez.",
@@ -123,6 +124,7 @@ const GUIDES = [
     slug: "esterillas-yoga",
     title: "Cómo elegir una esterilla de yoga o fitness",
     dek: "Grosor, material y agarre: la diferencia entre una esterilla que se desliza y una que dura años.",
+    img: "/assets/img/guias/esterillas-yoga.jpg",
     updated: "2026-09-14",
     intro: [
       "Una esterilla mala se nota en la primera clase de yoga con calor o en la primera serie de burpees: se desliza, se marca o se rompe por los pliegues. El grosor y el material correctos dependen sobre todo de qué vas a hacer sobre ella, no de cuál es \"la mejor\" en general.",
@@ -233,6 +235,7 @@ const GUIDES = [
     slug: "bandas-elasticas",
     title: "Bandas elásticas de resistencia: guía para elegir sin liarte",
     dek: "Tubulares, planas o en bucle (mini bands): para qué sirve cada tipo y cuántas necesitas de verdad.",
+    img: "/assets/img/guias/bandas-elasticas.jpg",
     updated: "2026-09-13",
     intro: [
       "\"Comprar una banda elástica\" es una simplificación que lleva a comprar la que no toca: hay al menos tres formatos distintos, cada uno pensado para un tipo de ejercicio diferente, y casi nadie necesita solo una.",
@@ -343,6 +346,7 @@ const GUIDES = [
     slug: "banco-entrenamiento",
     title: "Banco de entrenamiento plegable: qué mirar antes de comprar",
     dek: "Inclinación, peso máximo soportado y plegado: lo que marca la diferencia en un banco para casa.",
+    img: "/assets/img/guias/banco-entrenamiento.jpg",
     updated: "2026-09-12",
     intro: [
       "Un banco de entrenamiento es de las pocas piezas de equipamiento casero que, si falla, falla con peso encima. Por eso los criterios que importan aquí no son solo de comodidad: son también de seguridad.",
@@ -452,6 +456,7 @@ const GUIDES = [
     slug: "accesorios-cardio",
     title: "Comba de saltar y accesorios de cardio para entrenar en casa",
     dek: "Qué accesorios de cardio realmente aportan algo y cuáles son solo complemento.",
+    img: "/assets/img/guias/accesorios-cardio.jpg",
     updated: "2026-09-10",
     intro: [
       "La comba de saltar es de los accesorios de cardio con mejor relación precio-resultado que existen, pero elegir mal el tipo o la longitud es la razón más habitual de que acabe en un cajón a la semana.",
@@ -564,6 +569,7 @@ const ARTICLES = [
     slug: "como-montar-un-gimnasio-en-casa-desde-cero",
     title: "Cómo montar un gimnasio en casa desde cero",
     dek: "El orden en el que conviene comprar cada cosa, y por qué no hace falta gastar todo el presupuesto el primer mes.",
+    img: "/assets/img/blog/como-montar-un-gimnasio-en-casa-desde-cero.jpg",
     updated: "2026-09-16",
     body: [
       "Montar un gimnasio en casa desde cero da la tentación de comprarlo todo de golpe, pero el orden en el que incorporas cada pieza importa tanto como qué piezas eliges: empezar por lo básico evita comprar equipamiento que acaba sin usar.",
@@ -577,6 +583,7 @@ const ARTICLES = [
     slug: "errores-comunes-empezar-a-entrenar-en-casa",
     title: "5 errores comunes al empezar a entrenar en casa",
     dek: "Cosas fáciles de arreglar que no cuestan dinero, antes de pensar en comprar más equipamiento.",
+    img: "/assets/img/blog/errores-comunes-empezar-a-entrenar-en-casa.jpg",
     updated: "2026-09-11",
     body: [
       "Antes de gastar en más material, merece la pena revisar si el problema es de espacio o de rutina, no de equipo: varios de los errores más comunes se arreglan sin comprar nada.",
@@ -591,6 +598,7 @@ const ARTICLES = [
     slug: "cuanto-gastar-en-equipamiento-de-fitness-casero",
     title: "¿Cuánto merece la pena gastar en equipamiento de fitness casero?",
     dek: "Dónde están los saltos de calidad reales y dónde el precio ya no compra nada nuevo.",
+    img: "/assets/img/blog/cuanto-gastar-en-equipamiento-de-fitness-casero.jpg",
     updated: "2026-09-09",
     body: [
       "No hay una cifra única válida para todo el mundo, pero sí hay tramos de precio donde el salto de calidad es real y tramos donde ya no se nota tanto.",
@@ -604,6 +612,7 @@ const ARTICLES = [
     slug: "aprovechar-espacio-pequeno-para-entrenar",
     title: "Cómo aprovechar un espacio pequeño para entrenar en casa",
     dek: "No hace falta una habitación entera: con un par de metros cuadrados bien pensados es suficiente.",
+    img: "/assets/img/blog/aprovechar-espacio-pequeno-para-entrenar.jpg",
     updated: "2026-09-08",
     body: [
       "La falta de espacio es la excusa más común para no entrenar en casa, pero la mayoría de rutinas de fuerza y cardio caben en 2-3 metros cuadrados si el equipamiento se elige pensando en eso desde el principio.",
