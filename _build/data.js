@@ -886,7 +886,7 @@ const GUIDES = [
     slug: "kettlebells",
     title: "Kettlebells: cómo elegir una pesa rusa para entrenar en casa",
     dek: "Fija, ajustable, de hierro fundido o revestida en neopreno: qué formato compensa según el ejercicio que quieras hacer.",
-    img: null,
+    img: "/assets/img/guias/kettlebells.jpg",
     updated: "2026-09-17",
     intro: [
       "Una kettlebell no es una mancuerna con forma rara: el peso descentrado respecto al agarre es justo lo que la hace útil para movimientos balísticos (swing, snatch, clean) que con una mancuerna normal resultan incómodos o directamente peligrosos.",
@@ -1047,7 +1047,7 @@ const GUIDES = [
     slug: "rodillos-espuma-recuperacion",
     title: "Rodillo de espuma (foam roller): cómo elegir el tuyo",
     dek: "Densidad, tamaño y superficie: lo que de verdad cambia entre un rodillo de 10 € y uno de 150 €.",
-    img: null,
+    img: "/assets/img/guias/rodillos-espuma-recuperacion.jpg",
     updated: "2026-09-18",
     intro: [
       "El rodillo de espuma sirve para liberación miofascial: presionar y rodar sobre un músculo cargado para aflojarlo, algo especialmente útil después de entrenar con pesas o correr. No sustituye al estiramiento ni a un fisioterapeuta, pero es de los accesorios más baratos que puedes tener en casa para recuperación.",
