@@ -17,6 +17,8 @@ no exige atribución, pero se listan aquí por trazabilidad.
 | `assets/img/blog/cuanto-gastar-en-equipamiento-de-fitness-casero.jpg` | https://www.pexels.com/photo/4164763/ |
 | `assets/img/blog/aprovechar-espacio-pequeno-para-entrenar.jpg` | https://www.pexels.com/photo/6339731/ |
 | `assets/img/trust-bg.jpg` | https://www.pexels.com/photo/4488764/ |
+| `assets/img/guias/kettlebells.jpg` | https://www.pexels.com/photo/14502821/ |
+| `assets/img/guias/rodillos-espuma-recuperacion.jpg` | https://www.pexels.com/photo/16513603/ |
 
 Descargadas en tamaño medio (parámetro `w=1200`/`w=1600`, `cs=tinysrgb`,
 `auto=compress`) en lugar de la resolución original, para mantener el peso de
