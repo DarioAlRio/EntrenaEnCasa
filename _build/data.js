@@ -1552,7 +1552,7 @@ const GUIDES = [
 const ARTICLES = [
   {
     slug: "como-montar-un-gimnasio-en-casa-desde-cero",
-    title: "Cómo montar un gimnasio en casa desde cero",
+    title: "Cómo montar un gimnasio en casa desde cero: qué comprar primero (2026)",
     dek: "El orden en el que conviene comprar cada cosa, y por qué no hace falta gastar todo el presupuesto el primer mes.",
     img: "/assets/img/blog/como-montar-un-gimnasio-en-casa-desde-cero.jpg",
     updated: "2026-09-16",
@@ -1581,7 +1581,7 @@ const ARTICLES = [
   },
   {
     slug: "cuanto-gastar-en-equipamiento-de-fitness-casero",
-    title: "¿Cuánto merece la pena gastar en equipamiento de fitness casero?",
+    title: "Cuánto gastar en equipamiento de fitness casero: presupuesto por niveles (2026)",
     dek: "Dónde están los saltos de calidad reales y dónde el precio ya no compra nada nuevo.",
     img: "/assets/img/blog/cuanto-gastar-en-equipamiento-de-fitness-casero.jpg",
     updated: "2026-09-09",
@@ -1609,7 +1609,7 @@ const ARTICLES = [
   },
   {
     slug: "mancuernas-ajustables-vs-fijas-que-elegir",
-    title: "Mancuernas ajustables vs fijas: qué elegir para casa",
+    title: "Mancuernas ajustables vs fijas: cuáles comprar para casa (2026)",
     dek: "Las dos opciones cubren la misma necesidad de formas muy distintas: espacio, presupuesto y comodidad de uso.",
     img: "/assets/img/blog/mancuernas-ajustables-vs-fijas-que-elegir.jpg",
     updated: "2026-09-19",
@@ -1721,7 +1721,7 @@ const ARTICLES = [
   },
   {
     slug: "banco-plano-vs-banco-inclinable-para-casa",
-    title: "Banco plano o banco inclinable: cuál elegir para casa",
+    title: "Banco plano o inclinable: cuál comprar para casa (2026)",
     dek: "La diferencia de precio no siempre se traduce en una diferencia real de uso según tu rutina.",
     img: "/assets/img/blog/banco-plano-vs-banco-inclinable-para-casa.jpg",
     updated: "2026-09-15",
