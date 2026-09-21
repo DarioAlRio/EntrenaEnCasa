@@ -30,8 +30,10 @@ function escapeHtml(str) {
     .replace(/"/g, "&quot;");
 }
 
+// Los bloques que ya son HTML de bloque (<h2>, <ul>...) no se envuelven en <p>.
+const BLOCK_RE = /^\s*<(h[2-4]|ul|ol|table|blockquote)[\s>]/i;
 function paragraphs(arr) {
-  return arr.map((p) => `<p>${p}</p>`).join("\n");
+  return arr.map((p) => (BLOCK_RE.test(p) ? p : `<p>${p}</p>`)).join("\n");
 }
 
 function checklist(items) {
