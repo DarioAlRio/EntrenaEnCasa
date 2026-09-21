@@ -37,8 +37,8 @@ no exige atribución, pero se listan aquí por trazabilidad.
 | `assets/img/blog/bandas-elasticas-para-gluteos-y-piernas-como-elegir.jpg` | https://www.pexels.com/photo/8846588/ |
 | `assets/img/blog/kettlebell-de-hierro-fundido-o-de-vinilo-cual-comprar.jpg` | https://www.pexels.com/photo/221247/ |
 | `assets/img/blog/que-peso-de-kettlebell-comprar-para-empezar.jpg` | https://www.pexels.com/photo/27810155/ |
-| `assets/img/blog/banco-de-pesas-plegable-para-piso-pequeno.jpg` | https://www.pexels.com/photo/4162548/ |
-| `assets/img/blog/que-capacidad-de-peso-debe-tener-un-banco-de-pesas.jpg` | https://www.pexels.com/photo/4464720/ |
+| `assets/img/blog/banco-de-pesas-plegable-para-piso-pequeno.jpg` | https://www.pexels.com/photo/38965744/ |
+| `assets/img/blog/que-capacidad-de-peso-debe-tener-un-banco-de-pesas.jpg` | https://www.pexels.com/photo/19025671/ |
 | `assets/img/blog/comba-de-saltar-para-empezar-cual-comprar.jpg` | https://www.pexels.com/photo/8032841/ |
 | `assets/img/blog/suelo-de-goma-para-gimnasio-en-casa-guia-de-compra.jpg` | https://www.pexels.com/photo/6339715/ |
 | `assets/img/blog/gimnasio-en-casa-con-100-euros-que-comprar.jpg` | https://www.pexels.com/photo/8846274/ |
