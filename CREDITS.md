@@ -29,6 +29,21 @@ no exige atribución, pero se listan aquí por trazabilidad.
 | `assets/img/blog/como-cuidar-tu-equipamiento-de-fitness-en-casa.jpg` | https://www.pexels.com/photo/8032748/ |
 | `assets/img/blog/banco-plano-vs-banco-inclinable-para-casa.jpg` | https://www.pexels.com/photo/15917308/ |
 | `assets/img/blog/senales-de-que-toca-subir-de-peso-en-tus-entrenamientos.jpg` | https://www.pexels.com/photo/9073247/ |
+| `assets/img/blog/mejores-mancuernas-ajustables-para-principiantes.jpg` | https://www.pexels.com/photo/11513151/ |
+| `assets/img/blog/cuanto-cuestan-unas-mancuernas-ajustables-buenas.jpg` | https://www.pexels.com/photo/8611937/ |
+| `assets/img/blog/mancuernas-hexagonales-o-de-neopreno-cual-comprar.jpg` | https://www.pexels.com/photo/3931367/ |
+| `assets/img/blog/esterilla-de-corcho-tpe-o-nbr-cual-elegir.jpg` | https://www.pexels.com/photo/8436700/ |
+| `assets/img/blog/medidas-de-una-esterilla-de-yoga-guia-de-tamanos.jpg` | https://www.pexels.com/photo/36714314/ |
+| `assets/img/blog/bandas-elasticas-para-gluteos-y-piernas-como-elegir.jpg` | https://www.pexels.com/photo/8846588/ |
+| `assets/img/blog/kettlebell-de-hierro-fundido-o-de-vinilo-cual-comprar.jpg` | https://www.pexels.com/photo/221247/ |
+| `assets/img/blog/que-peso-de-kettlebell-comprar-para-empezar.jpg` | https://www.pexels.com/photo/27810155/ |
+| `assets/img/blog/banco-de-pesas-plegable-para-piso-pequeno.jpg` | https://www.pexels.com/photo/4162548/ |
+| `assets/img/blog/que-capacidad-de-peso-debe-tener-un-banco-de-pesas.jpg` | https://www.pexels.com/photo/4464720/ |
+| `assets/img/blog/comba-de-saltar-para-empezar-cual-comprar.jpg` | https://www.pexels.com/photo/8032841/ |
+| `assets/img/blog/suelo-de-goma-para-gimnasio-en-casa-guia-de-compra.jpg` | https://www.pexels.com/photo/6339715/ |
+| `assets/img/blog/gimnasio-en-casa-con-100-euros-que-comprar.jpg` | https://www.pexels.com/photo/8846274/ |
+| `assets/img/blog/gimnasio-en-casa-con-300-euros-que-comprar.jpg` | https://www.pexels.com/photo/27195989/ |
+| `assets/img/blog/foam-roller-o-pistola-de-masaje-cual-elegir.jpg` | https://www.pexels.com/photo/4378850/ |
 
 Descargadas en tamaño medio (parámetro `w=1200`/`w=1600`, `cs=tinysrgb`,
 `auto=compress`) en lugar de la resolución original, para mantener el peso de

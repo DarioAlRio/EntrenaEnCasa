@@ -122,6 +122,54 @@ const ARTICLE_GUIDES = {
   "senales-de-que-toca-subir-de-peso-en-tus-entrenamientos": [
     "mancuernas-ajustables",
     "bandas-elasticas"
+  ],
+  "mejores-mancuernas-ajustables-para-principiantes": [
+    "mancuernas-ajustables",
+    "banco-entrenamiento"
+  ],
+  "cuanto-cuestan-unas-mancuernas-ajustables-buenas": [
+    "mancuernas-ajustables"
+  ],
+  "mancuernas-hexagonales-o-de-neopreno-cual-comprar": [
+    "mancuernas-ajustables"
+  ],
+  "esterilla-de-corcho-tpe-o-nbr-cual-elegir": [
+    "esterillas-yoga"
+  ],
+  "medidas-de-una-esterilla-de-yoga-guia-de-tamanos": [
+    "esterillas-yoga"
+  ],
+  "bandas-elasticas-para-gluteos-y-piernas-como-elegir": [
+    "bandas-elasticas"
+  ],
+  "kettlebell-de-hierro-fundido-o-de-vinilo-cual-comprar": [
+    "kettlebells"
+  ],
+  "que-peso-de-kettlebell-comprar-para-empezar": [
+    "kettlebells"
+  ],
+  "banco-de-pesas-plegable-para-piso-pequeno": [
+    "banco-entrenamiento"
+  ],
+  "que-capacidad-de-peso-debe-tener-un-banco-de-pesas": [
+    "banco-entrenamiento"
+  ],
+  "comba-de-saltar-para-empezar-cual-comprar": [
+    "accesorios-cardio"
+  ],
+  "suelo-de-goma-para-gimnasio-en-casa-guia-de-compra": [
+    "accesorios-cardio"
+  ],
+  "gimnasio-en-casa-con-100-euros-que-comprar": [
+    "esterillas-yoga",
+    "bandas-elasticas"
+  ],
+  "gimnasio-en-casa-con-300-euros-que-comprar": [
+    "mancuernas-ajustables",
+    "banco-entrenamiento"
+  ],
+  "foam-roller-o-pistola-de-masaje-cual-elegir": [
+    "rodillos-espuma-recuperacion"
   ]
 };
 
