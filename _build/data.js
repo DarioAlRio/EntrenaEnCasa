@@ -10,7 +10,7 @@ const GUIDES = [
     slug: "mancuernas-ajustables",
     title: "Cómo elegir mancuernas para entrenar en casa",
     dek: "Fijas, ajustables o con discos: qué formato compensa según tu nivel y el espacio que tienes.",
-    img: "/assets/img/guias/mancuernas-ajustables.jpg",
+    img: "/assets/img/guias/mancuernas-ajustables.webp",
     updated: "2026-09-15",
     intro: [
       "El error más caro al comprar mancuernas es acertar con el peso de hoy y quedarte corto en tres meses. Progresar en fuerza es el objetivo de cualquier rutina, así que el formato que elijas debería acompañar esa progresión, no obligarte a comprar otra vez.",
@@ -236,7 +236,7 @@ const GUIDES = [
     slug: "esterillas-yoga",
     title: "Cómo elegir una esterilla de yoga o fitness",
     dek: "Grosor, material y agarre: la diferencia entre una esterilla que se desliza y una que dura años.",
-    img: "/assets/img/guias/esterillas-yoga.jpg",
+    img: "/assets/img/guias/esterillas-yoga.webp",
     updated: "2026-09-14",
     intro: [
       "Una esterilla mala se nota en la primera clase de yoga con calor o en la primera serie de burpees: se desliza, se marca o se rompe por los pliegues. El grosor y el material correctos dependen sobre todo de qué vas a hacer sobre ella, no de cuál es \"la mejor\" en general.",
@@ -459,7 +459,7 @@ const GUIDES = [
     slug: "bandas-elasticas",
     title: "Bandas elásticas de resistencia: guía para elegir sin liarte",
     dek: "Tubulares, planas o en bucle (mini bands): para qué sirve cada tipo y cuántas necesitas de verdad.",
-    img: "/assets/img/guias/bandas-elasticas.jpg",
+    img: "/assets/img/guias/bandas-elasticas.webp",
     updated: "2026-09-13",
     intro: [
       "\"Comprar una banda elástica\" es una simplificación que lleva a comprar la que no toca: hay al menos tres formatos distintos, cada uno pensado para un tipo de ejercicio diferente, y casi nadie necesita solo una.",
@@ -690,7 +690,7 @@ const GUIDES = [
     slug: "banco-entrenamiento",
     title: "Banco de entrenamiento plegable: qué mirar antes de comprar",
     dek: "Inclinación, peso máximo soportado y plegado: lo que marca la diferencia en un banco para casa.",
-    img: "/assets/img/guias/banco-entrenamiento.jpg",
+    img: "/assets/img/guias/banco-entrenamiento.webp",
     updated: "2026-09-12",
     intro: [
       "Un banco de entrenamiento es de las pocas piezas de equipamiento casero que, si falla, falla con peso encima. Por eso los criterios que importan aquí no son solo de comodidad: son también de seguridad.",
@@ -912,7 +912,7 @@ const GUIDES = [
     slug: "accesorios-cardio",
     title: "Comba de saltar y accesorios de cardio para entrenar en casa",
     dek: "Qué accesorios de cardio realmente aportan algo y cuáles son solo complemento.",
-    img: "/assets/img/guias/accesorios-cardio.jpg",
+    img: "/assets/img/guias/accesorios-cardio.webp",
     updated: "2026-09-10",
     intro: [
       "La comba de saltar es de los accesorios de cardio con mejor relación precio-resultado que existen, pero elegir mal el tipo o la longitud es la razón más habitual de que acabe en un cajón a la semana.",
@@ -1134,7 +1134,7 @@ const GUIDES = [
     slug: "kettlebells",
     title: "Kettlebells: cómo elegir una pesa rusa para entrenar en casa",
     dek: "Fija, ajustable, de hierro fundido o revestida en neopreno: qué formato compensa según el ejercicio que quieras hacer.",
-    img: "/assets/img/guias/kettlebells.jpg",
+    img: "/assets/img/guias/kettlebells.webp",
     updated: "2026-09-17",
     intro: [
       "Una kettlebell no es una mancuerna con forma rara: el peso descentrado respecto al agarre es justo lo que la hace útil para movimientos balísticos (swing, snatch, clean) que con una mancuerna normal resultan incómodos o directamente peligrosos.",
@@ -1343,7 +1343,7 @@ const GUIDES = [
     slug: "rodillos-espuma-recuperacion",
     title: "Rodillo de espuma (foam roller): cómo elegir el tuyo",
     dek: "Densidad, tamaño y superficie: lo que de verdad cambia entre un rodillo de 10 € y uno de 150 €.",
-    img: "/assets/img/guias/rodillos-espuma-recuperacion.jpg",
+    img: "/assets/img/guias/rodillos-espuma-recuperacion.webp",
     updated: "2026-09-18",
     intro: [
       "El rodillo de espuma sirve para liberación miofascial: presionar y rodar sobre un músculo cargado para aflojarlo, algo especialmente útil después de entrenar con pesas o correr. No sustituye al estiramiento ni a un fisioterapeuta, pero es de los accesorios más baratos que puedes tener en casa para recuperación.",
@@ -1554,7 +1554,7 @@ const ARTICLES = [
     slug: "como-montar-un-gimnasio-en-casa-desde-cero",
     title: "Cómo montar un gimnasio en casa desde cero: qué comprar primero (2026)",
     dek: "El orden en el que conviene comprar cada cosa, y por qué no hace falta gastar todo el presupuesto el primer mes.",
-    img: "/assets/img/blog/como-montar-un-gimnasio-en-casa-desde-cero.jpg",
+    img: "/assets/img/blog/como-montar-un-gimnasio-en-casa-desde-cero.webp",
     updated: "2026-09-16",
     body: [
       "Montar un gimnasio en casa desde cero da la tentación de comprarlo todo de golpe, pero el orden en el que incorporas cada pieza importa tanto como qué piezas eliges: empezar por lo básico evita comprar equipamiento que acaba sin usar.",
@@ -1568,7 +1568,7 @@ const ARTICLES = [
     slug: "errores-comunes-empezar-a-entrenar-en-casa",
     title: "5 errores comunes al empezar a entrenar en casa",
     dek: "Cosas fáciles de arreglar que no cuestan dinero, antes de pensar en comprar más equipamiento.",
-    img: "/assets/img/blog/errores-comunes-empezar-a-entrenar-en-casa.jpg",
+    img: "/assets/img/blog/errores-comunes-empezar-a-entrenar-en-casa.webp",
     updated: "2026-09-11",
     body: [
       "Antes de gastar en más material, merece la pena revisar si el problema es de espacio o de rutina, no de equipo: varios de los errores más comunes se arreglan sin comprar nada.",
@@ -1583,7 +1583,7 @@ const ARTICLES = [
     slug: "cuanto-gastar-en-equipamiento-de-fitness-casero",
     title: "Cuánto gastar en equipamiento de fitness casero: presupuesto por niveles (2026)",
     dek: "Dónde están los saltos de calidad reales y dónde el precio ya no compra nada nuevo.",
-    img: "/assets/img/blog/cuanto-gastar-en-equipamiento-de-fitness-casero.jpg",
+    img: "/assets/img/blog/cuanto-gastar-en-equipamiento-de-fitness-casero.webp",
     updated: "2026-09-09",
     body: [
       "No hay una cifra única válida para todo el mundo, pero sí hay tramos de precio donde el salto de calidad es real y tramos donde ya no se nota tanto.",
@@ -1597,7 +1597,7 @@ const ARTICLES = [
     slug: "aprovechar-espacio-pequeno-para-entrenar",
     title: "Cómo aprovechar un espacio pequeño para entrenar en casa",
     dek: "No hace falta una habitación entera: con un par de metros cuadrados bien pensados es suficiente.",
-    img: "/assets/img/blog/aprovechar-espacio-pequeno-para-entrenar.jpg",
+    img: "/assets/img/blog/aprovechar-espacio-pequeno-para-entrenar.webp",
     updated: "2026-09-08",
     body: [
       "La falta de espacio es la excusa más común para no entrenar en casa, pero la mayoría de rutinas de fuerza y cardio caben en 2-3 metros cuadrados si el equipamiento se elige pensando en eso desde el principio.",
@@ -1611,7 +1611,7 @@ const ARTICLES = [
     slug: "mancuernas-ajustables-vs-fijas-que-elegir",
     title: "Mancuernas ajustables vs fijas: cuáles comprar para casa (2026)",
     dek: "Las dos opciones cubren la misma necesidad de formas muy distintas: espacio, presupuesto y comodidad de uso.",
-    img: "/assets/img/blog/mancuernas-ajustables-vs-fijas-que-elegir.jpg",
+    img: "/assets/img/blog/mancuernas-ajustables-vs-fijas-que-elegir.webp",
     updated: "2026-09-19",
     body: [
       "Es una de las primeras decisiones al empezar a entrenar en casa: comprar un juego de mancuernas fijas de varios pesos, o unas <a href='/guias/mancuernas-ajustables.html'>mancuernas ajustables</a> que cambian de peso en el mismo par. No hay una respuesta única, pero sí criterios claros para decidir según tu caso.",
@@ -1625,7 +1625,7 @@ const ARTICLES = [
     slug: "kettlebells-vs-mancuernas-segun-tu-objetivo",
     title: "Kettlebells vs mancuernas: cuál elegir según tu objetivo",
     dek: "No compiten exactamente por lo mismo: cada una se mueve mejor en un tipo de ejercicio distinto.",
-    img: "/assets/img/blog/kettlebells-vs-mancuernas-segun-tu-objetivo.jpg",
+    img: "/assets/img/blog/kettlebells-vs-mancuernas-segun-tu-objetivo.webp",
     updated: "2026-09-19",
     body: [
       "Kettlebells y mancuernas se suelen comparar como si fueran sustitutas directas, pero el reparto de peso es distinto y eso cambia para qué sirve mejor cada una. El centro de masa de una <a href='/guias/kettlebells.html'>kettlebell</a> queda por debajo del agarre, lo que la hace especialmente cómoda en movimientos de balanceo y de cadera.",
@@ -1639,7 +1639,7 @@ const ARTICLES = [
     slug: "como-elegir-el-grosor-de-tu-esterilla-de-yoga",
     title: "Cómo elegir el grosor de tu esterilla de yoga según el suelo",
     dek: "Un par de milímetros de diferencia cambian mucho la sensación, sobre todo si entrenas sobre suelo duro.",
-    img: "/assets/img/blog/como-elegir-el-grosor-de-tu-esterilla-de-yoga.jpg",
+    img: "/assets/img/blog/como-elegir-el-grosor-de-tu-esterilla-de-yoga.webp",
     updated: "2026-09-18",
     body: [
       "El grosor de <a href='/guias/esterillas-yoga.html'>una esterilla de yoga</a> no es solo cuestión de comodidad: influye en el equilibrio en posturas de pie y en cuánto protege las articulaciones en ejercicios de suelo. Elegir mal el grosor para tu tipo de suelo es uno de los motivos más comunes de devolución.",
@@ -1653,7 +1653,7 @@ const ARTICLES = [
     slug: "rutina-de-recuperacion-con-rodillo-de-espuma",
     title: "Rutina de recuperación con rodillo de espuma tras entrenar",
     dek: "Diez minutos después de entrenar pueden marcar la diferencia en cómo llegas a la siguiente sesión.",
-    img: "/assets/img/blog/rutina-de-recuperacion-con-rodillo-de-espuma.jpg",
+    img: "/assets/img/blog/rutina-de-recuperacion-con-rodillo-de-espuma.webp",
     updated: "2026-09-18",
     body: [
       "El rodillo de espuma se suele comprar con buena intención y acabar olvidado en un rincón. La razón habitual no es que no funcione, sino que no hay una rutina fija asociada a él: sin un momento concreto del día reservado, es fácil que se quede sin usar.",
@@ -1667,7 +1667,7 @@ const ARTICLES = [
     slug: "cuanto-peso-de-bandas-elasticas-necesitas",
     title: "Cuánto peso necesitas en bandas elásticas según tu nivel",
     dek: "La resistencia de una banda no se mide en kilos, y eso genera bastante confusión al elegir la primera.",
-    img: "/assets/img/blog/cuanto-peso-de-bandas-elasticas-necesitas.jpg",
+    img: "/assets/img/blog/cuanto-peso-de-bandas-elasticas-necesitas.webp",
     updated: "2026-09-17",
     body: [
       "A diferencia de una mancuerna, <a href='/guias/bandas-elasticas.html'>una banda elástica</a> no tiene un peso fijo: su resistencia cambia según cuánto la estires, así que \"qué resistencia necesito\" depende tanto del ejercicio como de en qué punto del recorrido la uses.",
@@ -1681,7 +1681,7 @@ const ARTICLES = [
     slug: "como-disenar-una-rutina-de-fuerza-con-mancuernas-en-casa",
     title: "Cómo diseñar una rutina de fuerza con mancuernas sin ir al gimnasio",
     dek: "Con un solo par de mancuernas ajustables y algo de orden se cubre un entrenamiento de cuerpo completo real.",
-    img: "/assets/img/blog/como-disenar-una-rutina-de-fuerza-con-mancuernas-en-casa.jpg",
+    img: "/assets/img/blog/como-disenar-una-rutina-de-fuerza-con-mancuernas-en-casa.webp",
     updated: "2026-09-17",
     body: [
       "Para diseñar una rutina de fuerza en casa no hace falta mucho equipamiento, pero sí un poco de estructura: repartir los ejercicios por patrón de movimiento (empuje, tirón, pierna, core) evita rutinas que sin querer trabajan siempre lo mismo y descuidan el resto.",
@@ -1695,7 +1695,7 @@ const ARTICLES = [
     slug: "alternativas-de-cardio-en-casa-sin-maquinas-grandes",
     title: "Alternativas de cardio en casa sin máquinas grandes",
     dek: "No hace falta una cinta ni una bici estática para meter trabajo cardiovascular real en casa.",
-    img: "/assets/img/blog/alternativas-de-cardio-en-casa-sin-maquinas-grandes.jpg",
+    img: "/assets/img/blog/alternativas-de-cardio-en-casa-sin-maquinas-grandes.webp",
     updated: "2026-09-16",
     body: [
       "Una cinta de correr o una bici estática ocupan espacio permanente y tienen un precio de entrada alto, algo que en muchos pisos ya descarta la opción de partida. Por suerte, hay formas de meter cardio real en casa con equipamiento mucho más pequeño y barato.",
@@ -1709,7 +1709,7 @@ const ARTICLES = [
     slug: "como-cuidar-tu-equipamiento-de-fitness-en-casa",
     title: "Cómo cuidar tu equipamiento de fitness en casa para que dure",
     dek: "Un mantenimiento básico y barato alarga bastante la vida útil de lo que ya has comprado.",
-    img: "/assets/img/blog/como-cuidar-tu-equipamiento-de-fitness-en-casa.jpg",
+    img: "/assets/img/blog/como-cuidar-tu-equipamiento-de-fitness-en-casa.webp",
     updated: "2026-09-16",
     body: [
       "El equipamiento de fitness para casa no suele venir con instrucciones de mantenimiento, pero unos cuidados sencillos alargan bastante su vida útil, sobre todo en las piezas con goma, espuma o mecanismos de ajuste.",
@@ -1723,7 +1723,7 @@ const ARTICLES = [
     slug: "banco-plano-vs-banco-inclinable-para-casa",
     title: "Banco plano o inclinable: cuál comprar para casa (2026)",
     dek: "La diferencia de precio no siempre se traduce en una diferencia real de uso según tu rutina.",
-    img: "/assets/img/blog/banco-plano-vs-banco-inclinable-para-casa.jpg",
+    img: "/assets/img/blog/banco-plano-vs-banco-inclinable-para-casa.webp",
     updated: "2026-09-15",
     body: [
       "Un <a href='/guias/banco-entrenamiento.html'>banco de entrenamiento</a> plano cubre perfectamente los ejercicios básicos con mancuernas: press plano, remo apoyado, elevaciones de pierna, fondos con apoyo. Es la opción más sencilla y, normalmente, la más barata dentro de una misma calidad de construcción.",
@@ -1737,7 +1737,7 @@ const ARTICLES = [
     slug: "senales-de-que-toca-subir-de-peso-en-tus-entrenamientos",
     title: "Señales de que toca subir de peso en tus entrenamientos",
     dek: "Estancarse en el mismo peso durante meses casi nunca es cuestión de disciplina: suele ser cuestión de progresión.",
-    img: "/assets/img/blog/senales-de-que-toca-subir-de-peso-en-tus-entrenamientos.jpg",
+    img: "/assets/img/blog/senales-de-que-toca-subir-de-peso-en-tus-entrenamientos.webp",
     updated: "2026-09-15",
     body: [
       "Uno de los motivos más comunes por los que un entrenamiento en casa deja de dar resultados no es la falta de constancia, sino seguir usando el mismo peso durante meses sin ningún tipo de progresión. El cuerpo se adapta al estímulo, y sin subir la exigencia poco a poco, los resultados se estancan aunque se siga entrenando igual de a menudo.",
@@ -1751,7 +1751,7 @@ const ARTICLES = [
     slug: "mejores-mancuernas-ajustables-para-principiantes",
     title: "Mejores mancuernas ajustables para principiantes (2026)",
     dek: "Qué rango de peso, tipo de mecanismo y presupuesto conviene mirar si empiezas con mancuernas ajustables en casa y no quieres comprar dos veces.",
-    img: "/assets/img/blog/mejores-mancuernas-ajustables-para-principiantes.jpg",
+    img: "/assets/img/blog/mejores-mancuernas-ajustables-para-principiantes.webp",
     updated: "2026-09-21",
     body: [
       "Si estás empezando a entrenar en casa, unas mancuernas ajustables son probablemente la compra que más partido te va a dar por euro y por metro cuadrado. Pero en el catálogo hay modelos muy distintos, y el error típico del principiante no es elegir una marca mala, sino elegir un rango de peso que no encaja con su punto de partida. Aquí no hay un ranking cerrado: hay criterios para que compares con cabeza y una idea clara de qué tipo de modelo suele convenir a quien empieza.",
@@ -1778,7 +1778,7 @@ const ARTICLES = [
     slug: "cuanto-cuestan-unas-mancuernas-ajustables-buenas",
     title: "Cuánto cuestan unas mancuernas ajustables buenas (2026)",
     dek: "Tramos de precio reales de las mancuernas ajustables, qué se paga en cada uno y cuándo tiene sentido gastar más o quedarse en lo básico.",
-    img: "/assets/img/blog/cuanto-cuestan-unas-mancuernas-ajustables-buenas.jpg",
+    img: "/assets/img/blog/cuanto-cuestan-unas-mancuernas-ajustables-buenas.webp",
     updated: "2026-09-21",
     body: [
       "La pregunta de \"cuánto cuestan unas mancuernas ajustables buenas\" no tiene una cifra única, pero sí tiene tramos con lógica. El catálogo de esta web muestra modelos ajustables desde precios muy contenidos hasta sistemas de varios cientos de euros, y entender qué compra cada salto te evita pagar de más por prestaciones que quizá no usarás. Los precios de Amazon cambian con frecuencia, así que aquí hablamos de órdenes de magnitud y de criterios, no de cifras exactas.",
@@ -1810,7 +1810,7 @@ const ARTICLES = [
     slug: "mancuernas-hexagonales-o-de-neopreno-cual-comprar",
     title: "Mancuernas hexagonales o de neopreno: cuál comprar",
     dek: "Diferencias reales entre mancuernas hexagonales y de neopreno: agarre, durabilidad, ruido, espacio y para qué tipo de rutina encaja cada una.",
-    img: "/assets/img/blog/mancuernas-hexagonales-o-de-neopreno-cual-comprar.jpg",
+    img: "/assets/img/blog/mancuernas-hexagonales-o-de-neopreno-cual-comprar.webp",
     updated: "2026-09-21",
     body: [
       "Cuando descartas las ajustables o quieres complementar lo que ya tienes, toca decidir entre mancuernas fijas. Las dos familias más comunes en Amazon son las de neopreno (recubiertas de goma blanda, muy habituales en pesos ligeros) y las hexagonales (de caucho o goma sobre un núcleo de hierro, con forma de seis lados). No es una cuestión de \"buena o mala\": cada una sirve mejor para un tipo de uso.",
@@ -1844,7 +1844,7 @@ const ARTICLES = [
     slug: "esterilla-de-corcho-tpe-o-nbr-cual-elegir",
     title: "Esterilla de corcho, TPE o NBR: cuál elegir",
     dek: "Cómo se comportan los materiales de esterilla más habituales (corcho, TPE y NBR) en agarre, amortiguación, peso y mantenimiento antes de comprar.",
-    img: "/assets/img/blog/esterilla-de-corcho-tpe-o-nbr-cual-elegir.jpg",
+    img: "/assets/img/blog/esterilla-de-corcho-tpe-o-nbr-cual-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Al mirar esterillas en Amazon, lo primero que salta a la vista es la cantidad de siglas: TPE, NBR, PVC, corcho, caucho natural. Elegir mal el material es una de las causas más habituales de devoluciones: una esterilla que resbala, que huele, que se hunde o que pesa demasiado para llevarla. Aquí comparamos los tres materiales más comunes en el catálogo sin inventar cifras: solo lo que se sabe de forma general y lo que verás en las fichas.",
@@ -1876,7 +1876,7 @@ const ARTICLES = [
     slug: "medidas-de-una-esterilla-de-yoga-guia-de-tamanos",
     title: "Medidas de una esterilla de yoga: guía de tamaños",
     dek: "Largo, ancho y grosor: cómo elegir el tamaño de esterilla según tu altura, tu espacio y el tipo de ejercicio para no quedarte corto ni pasarte.",
-    img: "/assets/img/blog/medidas-de-una-esterilla-de-yoga-guia-de-tamanos.jpg",
+    img: "/assets/img/blog/medidas-de-una-esterilla-de-yoga-guia-de-tamanos.webp",
     updated: "2026-09-21",
     body: [
       "Una esterilla demasiado corta te deja los pies o la cabeza fuera en los ejercicios tumbado; una demasiado grande te ocupa medio salón. La medida estándar de una esterilla de yoga o fitness en el catálogo de esta web ronda los 183 cm de largo por 60 de ancho, pero hay modelos más grandes, más gruesos o plegables. Aquí te ayudamos a decidir qué medida tiene sentido para ti sin recurrir a tablas inventadas.",
@@ -1908,7 +1908,7 @@ const ARTICLES = [
     slug: "bandas-elasticas-para-gluteos-y-piernas-como-elegir",
     title: "Bandas elásticas para glúteos y piernas: cómo elegir",
     dek: "Mini bands de tela, de látex o tubulares: cuál elegir para trabajar glúteos y piernas en casa, qué resistencia mirar y errores típicos al comprar.",
-    img: "/assets/img/blog/bandas-elasticas-para-gluteos-y-piernas-como-elegir.jpg",
+    img: "/assets/img/blog/bandas-elasticas-para-gluteos-y-piernas-como-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Si buscas bandas elásticas para trabajar glúteos y piernas, te vas a encontrar con tres tipos muy distintos que se venden a veces bajo el mismo nombre: las mini bands (bucles cortos), las bandas de tela más anchas y las bandas tubulares con asas. Para este uso concreto no da igual cuál compres. Esta guía te ayuda a elegir sin prometer resultados: lo único que una banda hace es ofrecer resistencia; el resto depende de cómo y cuánto entrenes.",
@@ -1940,7 +1940,7 @@ const ARTICLES = [
     slug: "kettlebell-de-hierro-fundido-o-de-vinilo-cual-comprar",
     title: "Kettlebell de hierro fundido o de vinilo: cuál comprar",
     dek: "Diferencias prácticas entre kettlebells de hierro fundido, de vinilo y de neopreno: agarre, tamaño, suelo, ruido y qué encaja según tu rutina.",
-    img: "/assets/img/blog/kettlebell-de-hierro-fundido-o-de-vinilo-cual-comprar.jpg",
+    img: "/assets/img/blog/kettlebell-de-hierro-fundido-o-de-vinilo-cual-comprar.webp",
     updated: "2026-09-21",
     body: [
       "Al comprar una pesa rusa, casi todo el mundo se centra en el peso y se olvida del material. Sin embargo, el acabado de la kettlebell cambia bastante cómo se siente en la mano, cómo se comporta en el suelo y hasta cuánto ruido hace. Las dos familias más habituales en el catálogo son las de hierro fundido (metal desnudo o pintado) y las recubiertas de vinilo o neopreno. Repasamos las diferencias sin inventar nada.",
@@ -1972,7 +1972,7 @@ const ARTICLES = [
     slug: "que-peso-de-kettlebell-comprar-para-empezar",
     title: "Qué peso de kettlebell comprar para empezar",
     dek: "Cómo elegir el peso de tu primera kettlebell según tu nivel, tus ejercicios y tu progresión, sin caer en el error de comprar demasiado ligera o pesada.",
-    img: "/assets/img/blog/que-peso-de-kettlebell-comprar-para-empezar.jpg",
+    img: "/assets/img/blog/que-peso-de-kettlebell-comprar-para-empezar.webp",
     updated: "2026-09-21",
     body: [
       "\"¿Qué peso de kettlebell compro para empezar?\" es una pregunta con trampa: no hay un número universal y cualquier cifra que te den sin conocer tu nivel es una suposición. Lo que sí hay son criterios prácticos para acertar, y un consejo de fondo: la primera kettlebell no es la última, así que elige pensando en aprender bien el movimiento y en poder progresar. Aquí no damos cifras médicas ni promesas: solo lógica de compra.",
@@ -2004,7 +2004,7 @@ const ARTICLES = [
     slug: "banco-de-pesas-plegable-para-piso-pequeno",
     title: "Banco de pesas plegable para un piso pequeño",
     dek: "Qué mirar en un banco de pesas plegable si vives en un piso pequeño: medidas plegado, estabilidad, ruido y cómo guardarlo sin renunciar a seguridad.",
-    img: "/assets/img/blog/banco-de-pesas-plegable-para-piso-pequeno.jpg",
+    img: "/assets/img/blog/banco-de-pesas-plegable-para-piso-pequeno.webp",
     updated: "2026-09-21",
     body: [
       "En un piso pequeño, un banco de pesas fijo es un mueble más que no sabes dónde colocar. Un banco plegable resuelve parte del problema, pero también introduce dudas: ¿es tan estable como uno fijo?, ¿cuánto ocupa doblado?, ¿se guarda con facilidad? Esta guía repasa los criterios para acertar cuando el espacio es el gran limitante, y sin recurrir a cifras que no constan en las fichas.",
@@ -2037,7 +2037,7 @@ const ARTICLES = [
     slug: "que-capacidad-de-peso-debe-tener-un-banco-de-pesas",
     title: "Qué capacidad de peso debe tener un banco de pesas",
     dek: "Cómo interpretar la capacidad máxima de un banco de pesas, qué suma realmente (tu peso, la carga y el movimiento) y qué margen de seguridad conviene.",
-    img: "/assets/img/blog/que-capacidad-de-peso-debe-tener-un-banco-de-pesas.jpg",
+    img: "/assets/img/blog/que-capacidad-de-peso-debe-tener-un-banco-de-pesas.webp",
     updated: "2026-09-21",
     body: [
       "Los bancos de pesas anuncian capacidades de 200, 300 o más kilos, y esa cifra puede confundir. ¿Necesito 300 kg si voy a levantar 40? ¿La capacidad incluye mi peso? La respuesta corta es que sí debe incluirlo, y que conviene dejar margen. Aquí explicamos cómo leer esa cifra sin inventar normativas: solo lo que dicen las fichas y el sentido común de seguridad.",
@@ -2070,7 +2070,7 @@ const ARTICLES = [
     slug: "comba-de-saltar-para-empezar-cual-comprar",
     title: "Comba de saltar para empezar: cuál comprar (2026)",
     dek: "Cómo elegir tu primera comba: cable o PVC, longitud, mangos y peso. Criterios claros para no comprar una cuerda que se enreda o se queda corta.",
-    img: "/assets/img/blog/comba-de-saltar-para-empezar-cual-comprar.jpg",
+    img: "/assets/img/blog/comba-de-saltar-para-empezar-cual-comprar.webp",
     updated: "2026-09-21",
     body: [
       "La comba es de los accesorios más baratos y más eficaces para meter cardio en casa, pero comprar la primera cuerda a ciegas suele acabar en una comba demasiado larga, demasiado ligera o que se enreda a cada salto. No necesitas gastar mucho: necesitas acertar con longitud, tipo de cuerda y mangos. Te lo explicamos sin prometer quema de calorías ni cifras de rendimiento.",
@@ -2104,7 +2104,7 @@ const ARTICLES = [
     slug: "suelo-de-goma-para-gimnasio-en-casa-guia-de-compra",
     title: "Suelo de goma para gimnasio en casa: guía de compra",
     dek: "Cómo elegir suelo de goma o tatami para entrenar en casa: grosor, piezas encajables, ruido, olor y cuánto cubrir para proteger el suelo y a los vecinos.",
-    img: "/assets/img/blog/suelo-de-goma-para-gimnasio-en-casa-guia-de-compra.jpg",
+    img: "/assets/img/blog/suelo-de-goma-para-gimnasio-en-casa-guia-de-compra.webp",
     updated: "2026-09-21",
     body: [
       "Cuando entrenas en casa con mancuernas, kettlebells o saltos, el suelo sufre y los vecinos lo notan. Un suelo de goma o de tatami resuelve ambos problemas, pero hay decisiones que pesan: qué grosor, qué formato, cuánta superficie. En el catálogo verás desde losetas de espuma económicas hasta sistemas más caros pensados para material pesado. Aquí van los criterios.",
@@ -2139,7 +2139,7 @@ const ARTICLES = [
     slug: "gimnasio-en-casa-con-100-euros-que-comprar",
     title: "Gimnasio en casa con 100 euros: qué comprar (2026)",
     dek: "Qué comprar con un presupuesto de 100 euros para montar un gimnasio en casa: prioridades, qué dejar para después y errores que conviene evitar.",
-    img: "/assets/img/blog/gimnasio-en-casa-con-100-euros-que-comprar.jpg",
+    img: "/assets/img/blog/gimnasio-en-casa-con-100-euros-que-comprar.webp",
     updated: "2026-09-21",
     body: [
       "Con 100 euros no montarás un gimnasio completo, pero sí una base muy funcional si priorizas bien. La clave es no comprar de todo un poco, sino elegir las piezas que más se usan y que permiten progresar. Aquí proponemos un orden de compra, sin cifras exactas porque los precios de Amazon cambian: comprueba siempre el precio actual de cada ficha.",
@@ -2174,7 +2174,7 @@ const ARTICLES = [
     slug: "gimnasio-en-casa-con-300-euros-que-comprar",
     title: "Gimnasio en casa con 300 euros: qué comprar (2026)",
     dek: "Cómo repartir 300 euros para montar un gimnasio en casa con fuerza, movilidad y algo de cardio: orden de compra, alternativas y errores a evitar.",
-    img: "/assets/img/blog/gimnasio-en-casa-con-300-euros-que-comprar.jpg",
+    img: "/assets/img/blog/gimnasio-en-casa-con-300-euros-que-comprar.webp",
     updated: "2026-09-21",
     body: [
       "Con 300 euros ya se puede montar un rincón de entrenamiento bastante completo: fuerza con progresión, un banco, suelo protegido y algo de cardio. La clave es repartir bien y no gastar todo en una sola pieza cara. Los precios de Amazon cambian, así que trata las propuestas como una guía de prioridades y confirma el precio actual antes de comprar.",
@@ -2209,7 +2209,7 @@ const ARTICLES = [
     slug: "foam-roller-o-pistola-de-masaje-cual-elegir",
     title: "Foam roller o pistola de masaje: cuál elegir",
     dek: "Comparativa práctica entre rodillo de espuma y pistola de masaje: precio, uso, ruido, portabilidad y a quién le encaja cada uno tras entrenar.",
-    img: "/assets/img/blog/foam-roller-o-pistola-de-masaje-cual-elegir.jpg",
+    img: "/assets/img/blog/foam-roller-o-pistola-de-masaje-cual-elegir.webp",
     updated: "2026-09-21",
     body: [
       "Después de entrenar, mucha gente se plantea si comprar un rodillo de espuma (foam roller) o una pistola de masaje. Los dos se usan como apoyo en la recuperación, pero funcionan de forma distinta y cuestan de forma distinta. Aquí no prometemos efectos médicos ni resultados: comparamos formato, uso y precio para que elijas con criterio y sepas cuál te encaja.",
