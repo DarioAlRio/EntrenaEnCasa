@@ -98,7 +98,7 @@ function home() {
   <section class="section trust-section">
     <div class="wrap trust-grid">
       <div class="trust-media">
-        <img src="/assets/img/trust-bg.jpg" alt="Rincón de entrenamiento en casa con material de fuerza" loading="lazy" width="600" height="700">
+        <img src="/assets/img/trust-bg.webp" alt="Rincón de entrenamiento en casa con material de fuerza" loading="lazy" width="600" height="700">
       </div>
       <div class="trust-content">
         <div>

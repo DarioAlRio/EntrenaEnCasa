@@ -6,6 +6,471 @@
   "cleanUrls": false,
   "redirects": [
     {
+      "source": "/comparativas/airhop-12-pzs-suelo-gimnasio-mejorado-vs-comba-crossfit-profesional-talafit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/airhop-12-pzs-suelo-gimnasio-mejorado-vs-edifit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-kettlebell-de-hierro-fundi-vs-sportnow-pesa-rusa-soft-kettlebell.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-par-de-mancuernas-vs-unycos-mancuernas-de-neopreno-1-10-kg.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-par-de-mancuernas-vs-unycos.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-rodillo-de-espuma-moteada-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/amazon-basics-rubber-encased-hex-dumbbel-vs-amazon-basics-par-de-mancuernas.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/atercel-guantes-de-gimnasio-vs-airhop-12-pzs-suelo-gimnasio-mejorado.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/atercel-guantes-de-gimnasio-vs-comba-crossfit-profesional-talafit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/atercel-guantes-de-gimnasio-vs-edifit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/atercel-guantes-de-gimnasio-vs-jupplies-suelo-gimnasio-puzzle-de-goma.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bandas-elasticas-de-resistencia-de-latex-vs-pleasion-mini-bands-de-tela.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bandas-elasticas-de-resistencia-de-latex-vs-portentum-cintas-elasticas.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bandas-elasticas-de-resistencia-de-latex-vs-set-6-gomas-elasticas-de-musculacion.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bemaxx-esterilla-fitness-antislipx-vs-la-mente-es-maravillosa-esterilla-de-yog.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bemaxx-esterilla-fitness-antislipx-vs-proiron-esterilla-yoga.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bowflex-selecttech-kettlebell-ajustable-vs-amazon-basics-kettlebell-de-hierro-fundi.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/bowflex-selecttech-kettlebell-ajustable-vs-sportnow-pesa-rusa-soft-kettlebell.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-de-espuma-eva-para-fascia-vs-amazon-basics-rodillo-de-espuma-moteada.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-de-espuma-eva-para-fascia-vs-foam-roller-largo-druna.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-de-espuma-eva-para-fascia-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-de-espuma-eva-para-fascia-vs-rad-herramienta-de-liberacion-miofascial.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-largo-druna-vs-amazon-basics-rodillo-de-espuma-moteada.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-largo-druna-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/foam-roller-largo-druna-vs-rad-herramienta-de-liberacion-miofascial.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fokky-gomas-elasticas-musculacion-vs-fokky-gomas-elasticas-musculacion.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fokky-gomas-elasticas-musculacion-vs-pleasion-mini-bands-de-tela.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fokky-gomas-elasticas-musculacion-vs-portentum-cintas-elasticas.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/fokky-gomas-elasticas-musculacion-vs-set-6-gomas-elasticas-de-musculacion.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/hapbear-esterilla-yoga-grande-vs-la-mente-es-maravillosa-esterilla-de-yog.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/hapbear-esterilla-yoga-grande-vs-proiron-esterilla-yoga.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/hapbear-esterilla-yoga-grande-vs-yogii-esterilla-de-yoga-6-mm.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/joroto-md60-banco-de-pesas-ajustable-vs-mobiclinic-banco-de-musculacion-plegable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/juego-de-mancuernas-2-en-1-10-vs-amazon-basics-rubber-encased-hex-dumbbel.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jupplies-mancuerna-ajustable-2-24-kg-vs-amazon-basics-par-de-mancuernas.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jupplies-mancuerna-ajustable-2-24-kg-vs-unycos-mancuernas-de-neopreno-1-10-kg.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jupplies-mancuerna-ajustable-2-24-kg-vs-unycos.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jupplies-suelo-gimnasio-puzzle-de-goma-vs-airhop-12-pzs-suelo-gimnasio-mejorado.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jupplies-suelo-gimnasio-puzzle-de-goma-vs-comba-crossfit-profesional-talafit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/jupplies-suelo-gimnasio-puzzle-de-goma-vs-edifit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kettlebell-de-competicion-viok-sport-vs-amazon-basics-kettlebell-de-hierro-fundi.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kettlebell-de-competicion-viok-sport-vs-bowflex-selecttech-kettlebell-ajustable.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/kettlebell-de-competicion-viok-sport-vs-sportnow-pesa-rusa-soft-kettlebell.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mancuernas-ajustables-compactas-10-kg-vs-amazon-basics-par-de-mancuernas.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mancuernas-ajustables-compactas-10-kg-vs-jupplies-mancuerna-ajustable-2-24-kg.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mancuernas-ajustables-compactas-10-kg-vs-unycos-mancuernas-de-neopreno-1-10-kg.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/mancuernas-ajustables-compactas-10-kg-vs-unycos.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/maniboom-pesas-rusas-pvc-suave-vs-amazon-basics-kettlebell-de-hierro-fundi.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/maniboom-pesas-rusas-pvc-suave-vs-bowflex-selecttech-kettlebell-ajustable.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/maniboom-pesas-rusas-pvc-suave-vs-sportnow-pesa-rusa-soft-kettlebell.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/maniboom-pesas-rusas-pvc-suave-vs-unycos-pesa-rusa-kettlebell-de-hierro.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/pasyou-banco-de-pesas-ajustable-vs-joroto-md60-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/pasyou-banco-de-pesas-ajustable-vs-mobiclinic-banco-de-musculacion-plegable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/portentum-cintas-elasticas-vs-pleasion-mini-bands-de-tela.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/portentum-cintas-elasticas-vs-set-6-gomas-elasticas-de-musculacion.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/proiron-esterilla-yoga-vs-la-mente-es-maravillosa-esterilla-de-yog.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rad-herramienta-de-liberacion-miofascial-vs-amazon-basics-rodillo-de-espuma-moteada.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rad-herramienta-de-liberacion-miofascial-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/set-6-gomas-elasticas-de-musculacion-vs-pleasion-mini-bands-de-tela.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/set-de-5-bandas-elasticas-vs-bandas-elasticas-de-resistencia-de-latex.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/set-de-5-bandas-elasticas-vs-pleasion-mini-bands-de-tela.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/set-de-5-bandas-elasticas-vs-portentum-cintas-elasticas.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/set-de-5-bandas-elasticas-vs-set-6-gomas-elasticas-de-musculacion.html",
+      "destination": "/guias/bandas-elasticas.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/tectake-800850-colchoneta-de-gimnasia-vs-bemaxx-esterilla-fitness-antislipx.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/tectake-800850-colchoneta-de-gimnasia-vs-la-mente-es-maravillosa-esterilla-de-yog.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/tectake-800850-colchoneta-de-gimnasia-vs-proiron-esterilla-yoga.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/tectake-800850-colchoneta-de-gimnasia-vs-yogii-esterilla-de-yoga-6-mm.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/toputure-bicicleta-estatica-plegable-5-vs-airhop-12-pzs-suelo-gimnasio-mejorado.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/toputure-bicicleta-estatica-plegable-5-vs-comba-crossfit-profesional-talafit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/toputure-bicicleta-estatica-plegable-5-vs-edifit.html",
+      "destination": "/guias/accesorios-cardio.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/triggerpoint-grid-rodillo-de-espuma-vs-amazon-basics-rodillo-de-espuma-moteada.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/triggerpoint-grid-rodillo-de-espuma-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/triggerpoint-grid-rodillo-de-espuma-vs-rad-herramienta-de-liberacion-miofascial.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/unycos-pesa-rusa-kettlebell-de-hierro-vs-amazon-basics-kettlebell-de-hierro-fundi.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/unycos-pesa-rusa-kettlebell-de-hierro-vs-bowflex-selecttech-kettlebell-ajustable.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/unycos-pesa-rusa-kettlebell-de-hierro-vs-sportnow-pesa-rusa-soft-kettlebell.html",
+      "destination": "/guias/kettlebells.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/unycos-vs-unycos-mancuernas-de-neopreno-1-10-kg.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/winnow-banco-de-pesas-banco-vs-joroto-md60-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/winnow-banco-de-pesas-banco-vs-mobiclinic-banco-de-musculacion-plegable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/winnow-banco-de-pesas-banco-vs-pasyou-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/winnow-banco-de-pesas-banco-vs-yoleo-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yes4all-juego-de-mancuernas-hexagonales-vs-unycos-mancuernas-de-neopreno-1-10-kg.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yes4all-juego-de-mancuernas-hexagonales-vs-unycos.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yogii-esterilla-de-yoga-6-mm-vs-la-mente-es-maravillosa-esterilla-de-yog.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yogii-esterilla-de-yoga-6-mm-vs-proiron-esterilla-yoga.html",
+      "destination": "/guias/esterillas-yoga.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yoleo-banco-de-pesas-ajustable-utilidad-vs-joroto-md60-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yoleo-banco-de-pesas-ajustable-utilidad-vs-mobiclinic-banco-de-musculacion-plegable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yoleo-banco-de-pesas-ajustable-utilidad-vs-pasyou-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yoleo-banco-de-pesas-ajustable-vs-joroto-md60-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yoleo-banco-de-pesas-ajustable-vs-mobiclinic-banco-de-musculacion-plegable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/yoleo-banco-de-pesas-ajustable-vs-pasyou-banco-de-pesas-ajustable.html",
+      "destination": "/guias/banco-entrenamiento.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/amazon-basics-rubber-encased-hex-dumbbell-weights-set-b0dp263cp2.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
+      "source": "/productos/mobiclinic-mancuernas-ajustables-2-en-1-peso-de-2-30-kg-incluye-y-barra-extension-acolchada-tuercas-antideslizantes-acero-resistente-gym-casa-b0dg3t1k2w.html",
+      "destination": "/guias/mancuernas-ajustables.html",
+      "permanent": true
+    },
+    {
       "source": "/:section(guias|blog|comparativas|productos|legal|mejores)/:slug([^/.]+)",
       "destination": "/:section/:slug.html",
       "permanent": true

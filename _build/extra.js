@@ -13,24 +13,6 @@ module.exports = {
     "price": "28",
     "rating": "4,2★",
     "reviews": 970
-   },
-   {
-    "asin": "B0DP263CP2",
-    "title": "Amazon Basics Rubber Encased Hex Dumbbell Weights Set",
-    "note": "Top ventas en Amazon.es: 4,6★ con 890 valoraciones. 50+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/71wq-phoZmL._AC_UL320_.jpg",
-    "price": "47",
-    "rating": "4,6★",
-    "reviews": 890
-   },
-   {
-    "asin": "B0DG3T1K2W",
-    "title": "Mobiclinic® , Mancuernas ajustables, 2 en 1, Peso de 2-30 kg, Incluye y barra extensión acolchada, Tuercas antideslizantes, Acero resistente, Gym casa",
-    "note": "Mancuernas ajustables; 2 en 1. Top ventas en Amazon.es: 4,5★ con 713 valoraciones. 600+ comprados el último mes.",
-    "img": "https://m.media-amazon.com/images/I/61+7IYjiqsL._AC_UL320_.jpg",
-    "price": "36",
-    "rating": "4,5★",
-    "reviews": 713
    }
   ],
   "esterillas-yoga": [
