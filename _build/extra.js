@@ -13,6 +13,33 @@ module.exports = {
     "price": "28",
     "rating": "4,2★",
     "reviews": 970
+   },
+   {
+    "asin": "B0BPS6X1MV",
+    "title": "vidaXL Juego de barras y mancuernas con discos 60 kg",
+    "note": "Top ventas en Amazon.es: 4,4★ con 1169 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/41vx4L-NtlL._AC_UL320_.jpg",
+    "price": "102",
+    "rating": "4,4★",
+    "reviews": 1169
+   },
+   {
+    "asin": "B0BQ182GT2",
+    "title": "Cecotec Set de Mancuernas de 1 a 5 Kg, Drumfit 400 DoubleNeo, Recubrimiento de neopreno, Diseño compacto y anti-rodamiento, Entrenamiendo de fuerza, m",
+    "note": "Drumfit 400 DoubleNeo; Recubrimiento de neopreno. Top ventas en Amazon.es: 4,5★ con 254 valoraciones. 200+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71eDkhFXq1L._AC_UL320_.jpg",
+    "price": "35",
+    "rating": "4,5★",
+    "reviews": 254
+   },
+   {
+    "asin": "B0DG3TJ356",
+    "title": "JUPPLIES Juego de Mancuernas Ajustables 2 en 1 | 10kg 20kg 35kg",
+    "note": "10kg 20kg 35kg. Top ventas en Amazon.es: 4,5★ con 254 valoraciones. 100+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/71GSaQyLCGL._AC_UL320_.jpg",
+    "price": "36",
+    "rating": "4,5★",
+    "reviews": 254
    }
   ],
   "esterillas-yoga": [
@@ -42,6 +69,15 @@ module.exports = {
     "price": "40",
     "rating": "4,6★",
     "reviews": 760
+   },
+   {
+    "asin": "B0HHF1879J",
+    "title": "Alfombrilla de Yoga TPE Antideslizante 183x61cm, 6/8/10mm,Correa Transporte",
+    "note": "6/8/10mm; Correa Transporte. Top ventas en Amazon.es: 4,6★ con 5048 valoraciones. 100+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/719sUz1oQIL._AC_UL320_.jpg",
+    "price": "16",
+    "rating": "4,6★",
+    "reviews": 5048
    }
   ],
   "bandas-elasticas": [
@@ -100,6 +136,15 @@ module.exports = {
     "price": "72",
     "rating": "4,2★",
     "reviews": 547
+   },
+   {
+    "asin": "B0GK2FXX7D",
+    "title": "Banco de musculación con banco de musculación (banco de desarrollo), banco de entrenamiento, ajustable, capacidad de carga de 150 kg, plegable, color ",
+    "note": "banco de entrenamiento; ajustable. Top ventas en Amazon.es: 5,0★ con 3417 valoraciones. 50+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61WM3-AX9FL._AC_UL320_.jpg",
+    "price": "61",
+    "rating": "5,0★",
+    "reviews": 3417
    }
   ],
   "accesorios-cardio": [
@@ -129,6 +174,15 @@ module.exports = {
     "price": "25",
     "rating": "4,3★",
     "reviews": 289
+   },
+   {
+    "asin": "B0H4FH31ZP",
+    "title": "Cuerda de saltar, deporte, adulto, 2,8 m, mango transparente, azul, rosa",
+    "note": "deporte; adulto. Top ventas en Amazon.es: 4,3★ con 16.476 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/51lDvl8k+AL._AC_UL320_.jpg",
+    "price": "7",
+    "rating": "4,3★",
+    "reviews": 16476
    }
   ],
   "kettlebells": [
@@ -158,6 +212,24 @@ module.exports = {
     "price": "50",
     "rating": "4,6★",
     "reviews": 113
+   },
+   {
+    "asin": "B0FWZSDVX3",
+    "title": "Set de Kettlebells BSFIT – Pack de Pesas Rusas de 2 o 3 Unidades, Pesas Rusas Antideslizantes para Fuerza, Fitness, Cross Training, Gimnasio y Entrena",
+    "note": "Pack de Pesas Rusas de 2 o 3 Unidades; Pesas Rusas Antideslizantes para Fuerza. Top ventas en Amazon.es: 4,8★ con 254 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/61ekrGSIVzL._AC_UL320_.jpg",
+    "price": "63",
+    "rating": "4,8★",
+    "reviews": 254
+   },
+   {
+    "asin": "B0FT2CBBHC",
+    "title": "SPORTNOW Juego de Mancuernas Ajustables, 6 en 1, 20kg/25kg, Juego de Pesas Utilizado como Kettlebell, Barra, Mancuernas o Soporte para Flexiones, Equi",
+    "note": "6 en 1; 20kg/25kg. Top ventas en Amazon.es: 4,1★ con 254 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/71fNUXcZTBL._AC_UL320_.jpg",
+    "price": "48",
+    "rating": "4,1★",
+    "reviews": 254
    }
   ],
   "rodillos-espuma-recuperacion": [
@@ -178,6 +250,42 @@ module.exports = {
     "price": "20",
     "rating": "4,3★",
     "reviews": 252
+   },
+   {
+    "asin": "B0CL4W3FK2",
+    "title": "MAGIC SELECT Pack Rodillo, Pelota y Barra Masajeadora de Espuma 45cm",
+    "note": "Pelota y Barra Masajeadora de Espuma 45cm. Top ventas en Amazon.es: 4,2★ con 2179 valoraciones. 900+ comprados el último mes.",
+    "img": "https://m.media-amazon.com/images/I/61ra91Z4xhL._AC_UL320_.jpg",
+    "price": "17",
+    "rating": "4,2★",
+    "reviews": 2179
+   },
+   {
+    "asin": "B0D1XN1N53",
+    "title": "Rodillo de espuma para masaje de columna vertebral y espalda, ideal para fitness, yoga y alivio muscular",
+    "note": "ideal para fitness; yoga y alivio muscular. Top ventas en Amazon.es: 4,2★ con 2179 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/81E3s3bNZLL._AC_UL320_.jpg",
+    "price": "16",
+    "rating": "4,2★",
+    "reviews": 2179
+   },
+   {
+    "asin": "B0CHF79CDY",
+    "title": "Par de rodillos de almohadilla para pies de espuma esponjosa, utilizados para reemplazar equipos de ejercicio de gimnasio, adecuados para varillas de ",
+    "note": "utilizados para reemplazar equipos de ejercicio de gimnasio; adecuados para varillas de 1 in (20 * 9 * 4.7 CM). Top ventas en Amazon.es: 4,6★ con 2179 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/51RJVQ8PXGL._AC_UL320_.jpg",
+    "price": "13",
+    "rating": "4,6★",
+    "reviews": 2179
+   },
+   {
+    "asin": "B0C6TJBP1Z",
+    "title": "Rodillo muscular – Negro verde – Herramienta de masaje corporal con 9 rodillos y mangos antideslizantes para masaje de tejido profundo y máxima recupe",
+    "note": "Negro verde; Herramienta de masaje corporal con 9 rodillos y mangos antideslizantes para masaje de tejido profundo y máxima recuperación muscular. Top ventas en Amazon.es: 4,2★ con 2179 valoraciones.",
+    "img": "https://m.media-amazon.com/images/I/71NZjdNLqzL._AC_UL320_.jpg",
+    "price": "9",
+    "rating": "4,2★",
+    "reviews": 2179
    }
   ]
  },
