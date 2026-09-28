@@ -1282,14 +1282,14 @@
       "permanent": true
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [
         {
           "type": "host",
           "value": "entrena-en-casa-beige.vercel.app"
         }
       ],
-      "destination": "https://entrenaencasahoy.es/:path*",
+      "destination": "https://entrenaencasahoy.es/$1",
       "permanent": true
     },
     {
