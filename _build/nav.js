@@ -9,7 +9,9 @@ const SITE = {
   description:
     "Guías de compra y comparativas independientes de mancuernas, esterillas, bandas elásticas y equipamiento de fitness para entrenar en casa sin gastar de más.",
   // Dominio provisional: no hay dominio propio comprado todavía.
-  domain: "https://entrena-en-casa-beige.vercel.app",
+  domain: "https://entrenaencasahoy.es",
+  // Dominios antiguos: redirigen 301 página a página al dominio actual (vercel.json).
+  legacyHosts: ["entrena-en-casa-beige.vercel.app"],
   locale: "es_ES",
   lang: "es",
   email: "contacto.guiasdecompra@gmail.com",

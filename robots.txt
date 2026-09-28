@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://entrena-en-casa-beige.vercel.app/sitemap.xml
+Sitemap: https://entrenaencasahoy.es/sitemap.xml
