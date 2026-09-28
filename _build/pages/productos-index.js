@@ -1,3 +1,13 @@
+// Etiquetas cortas para los botones de filtro.
+const SHORT_LABELS = {
+  "mancuernas-ajustables": "Mancuernas",
+  "esterillas-yoga": "Esterillas",
+  "bandas-elasticas": "Bandas elásticas",
+  "banco-entrenamiento": "Bancos",
+  "accesorios-cardio": "Cardio",
+  "kettlebells": "Kettlebells",
+  "rodillos-espuma-recuperacion": "Foam rollers"
+};
 "use strict";
 
 const { SITE } = require("../nav");
@@ -11,7 +21,7 @@ function productosIndex() {
   );
 
   const filters = GUIDES.map(
-    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(g.title)} (${g.products.length})</button>`
+    (g) => `<button type="button" class="filter-btn" data-filter="${g.slug}">${escapeHtml(SHORT_LABELS[g.slug] || g.title)} (${g.products.length})</button>`
   ).join("\n        ");
 
   const html = `
