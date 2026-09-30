@@ -291,7 +291,7 @@ module.exports = {
  },
  "articles": [
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "rutina-hiit-con-comba-de-15-minutos",
    "guide": "accesorios-cardio",
    "title": "Rutina HIIT con comba de 15 minutos para hacer en casa",
@@ -304,11 +304,22 @@ module.exports = {
     "Salta sobre una esterilla o suelo que amortigüe, con zapatillas. Ajusta la longitud: pisando el centro de la cuerda, los mangos deben llegar a las axilas.",
     "<h2>Qué comba elegir</h2>",
     "Una de velocidad con rodamientos para HIIT; una con lastre si buscas trabajar también hombros y brazos.",
+    "<h2>Qué saltos usar en cada ronda</h2>",
+    "Las 8 rondas de 40 segundos no tienen por qué ser iguales. Variar el tipo de salto mantiene la sesión entretenida y reparte el esfuerzo:",
+    "<ul><li><strong>Rondas 1-2:</strong> salto básico con los dos pies, rápido y bajo.</li><li><strong>Rondas 3-4:</strong> paso de boxeador, alternando el peso de un pie a otro.</li><li><strong>Rondas 5-6:</strong> rodillas altas, subiendo cada rodilla hacia la cintura.</li><li><strong>Rondas 7-8:</strong> tu salto favorito, a máxima velocidad.</li></ul>",
+    "Si eres principiante, cambia la proporción a 30 segundos de trabajo y 30 de descanso durante las primeras semanas.",
+    "<h2>Cómo proteger rodillas y tobillos</h2>",
+    "La comba bien hecha es de bajo impacto: se salta sobre la parte delantera del pie, con los talones sin tocar el suelo y los saltos justos para que pase la cuerda, de uno o dos centímetros. Si oyes golpes fuertes al aterrizar, estás saltando demasiado alto.",
+    "Evita saltar sobre baldosa o cemento sin amortiguación, y no lo hagas descalzo. Si tienes molestias previas en rodillas, espalda o suelo pélvico, consulta con un profesional sanitario antes de empezar con el HIIT.",
+    "<h2>Cuántas veces a la semana</h2>",
+    "Dos o tres sesiones semanales de esta rutina, en días no consecutivos, son suficientes para mejorar la capacidad cardiovascular. El resto de días, combínalo con fuerza o con actividad suave como caminar. Más no es mejor: el HIIT diario aumenta el riesgo de sobrecarga y hace que las sesiones pierdan intensidad.",
+    "<h2>Si no tienes sitio para saltar</h2>",
+    "Necesitas algo más de dos metros de techo y un espacio libre alrededor. Si no lo tienes, puedes hacer la misma estructura de 40/20 con ejercicios sin cuerda: saltos simulados, jumping jacks o skipping en el sitio.",
     "Modelos concretos en el <a href=\"/mejores/accesorios-cardio.html\">ranking de combas 2026</a> y esterillas en el <a href=\"/mejores/esterillas-yoga.html\">top de esterillas</a>."
    ]
   },
   {
-   "updated": "2026-09-24",
+   "updated": "2026-10-01",
    "slug": "ejercicios-con-banco-de-pesas-en-casa",
    "guide": "banco-entrenamiento",
    "title": "8 ejercicios con banco de pesas que puedes hacer en casa",
@@ -319,6 +330,16 @@ module.exports = {
     "<ul><li>Press de banca con mancuernas.</li><li>Press inclinado (respaldo a 30-45°).</li><li>Remo a una mano apoyado en el banco.</li><li>Sentadilla búlgara.</li><li>Hip thrust.</li><li>Fondos de tríceps.</li><li>Step-ups.</li><li>Crunch declinado (si el banco lo permite).</li></ul>",
     "<h2>Qué banco necesitas</h2>",
     "Para todos estos ejercicios, uno con respaldo regulable y carga máxima de al menos 200 kg. Los que declinan añaden trabajo de abdomen.",
+    "<h2>Una rutina de ejemplo de 40 minutos</h2>",
+    "Con un banco y un par de mancuernas puedes organizar una sesión de cuerpo completo. Haz 3 series de cada ejercicio, con 8-12 repeticiones y 60-90 segundos de descanso:",
+    "<ol><li>Sentadilla búlgara con el pie trasero sobre el banco (por pierna).</li><li>Press de banca con mancuernas en plano.</li><li>Remo a una mano con rodilla y mano apoyadas en el banco.</li><li>Hip thrust con la espalda alta apoyada en el lateral del banco.</li><li>Press inclinado a 30° para la parte alta del pecho.</li><li>Fondos de tríceps en el borde del banco.</li></ol>",
+    "Alterna esta sesión con otra centrada en piernas y espalda, y deja al menos un día de descanso entre las dos.",
+    "<h2>Técnica: tres errores que conviene evitar</h2>",
+    "El primero es arquear en exceso la espalda en el press: los glúteos y los omóplatos deben seguir en contacto con el banco. El segundo, en el remo, es girar el tronco para subir la mancuerna; si tienes que girar, el peso es excesivo. El tercero, en la sentadilla búlgara, es colocar el pie delantero demasiado cerca del banco, lo que carga la rodilla. Aléjalo hasta que al bajar la rodilla quede más o menos sobre el tobillo.",
+    "<h2>Cómo progresar sin comprar más peso</h2>",
+    "Si tus mancuernas se quedan ligeras, antes de comprar otras prueba a bajar más despacio (tres segundos en la fase de bajada), añadir una pausa abajo o hacer más repeticiones. También puedes pasar a ejercicios unilaterales: un press a una mano exige más estabilidad y sube la dificultad con el mismo peso.",
+    "<h2>Seguridad en casa</h2>",
+    "Coloca el banco sobre una superficie estable y lejos de muebles con esquinas. Revisa los pasadores del respaldo antes de cada sesión y no te dejes caer sobre el banco con las mancuernas en las manos: siéntate primero y túmbate después, llevando las pesas apoyadas en los muslos.",
     "Compara modelos en el <a href=\"/mejores/banco-entrenamiento.html\">ranking de bancos de entrenamiento 2026</a> y mancuernas en el <a href=\"/mejores/mancuernas-ajustables.html\">top de mancuernas</a>."
    ]
   }

@@ -666,6 +666,39 @@
       "statusCode": 301
     },
     {
+      "source": "/comparativas/par-de-rodillos-de-almohadilla-para-pies-vs-magic-select-pack-rodillo.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "entrena-en-casa-beige.vercel.app"
+        }
+      ],
+      "destination": "https://entrenaencasahoy.es/guias/rodillos-espuma-recuperacion.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/par-de-rodillos-de-almohadilla-para-pies-vs-rodillo-de-espuma-para-masaje-de-columna.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "entrena-en-casa-beige.vercel.app"
+        }
+      ],
+      "destination": "https://entrenaencasahoy.es/guias/rodillos-espuma-recuperacion.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/par-de-rodillos-de-almohadilla-para-pies-vs-rodillo-muscular.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "entrena-en-casa-beige.vercel.app"
+        }
+      ],
+      "destination": "https://entrenaencasahoy.es/guias/rodillos-espuma-recuperacion.html",
+      "statusCode": 301
+    },
+    {
       "source": "/comparativas/pasyou-banco-de-pesas-ajustable-vs-joroto-md60-banco-de-pesas-ajustable.html",
       "has": [
         {
@@ -733,6 +766,17 @@
     },
     {
       "source": "/comparativas/rad-herramienta-de-liberacion-miofascial-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "entrena-en-casa-beige.vercel.app"
+        }
+      ],
+      "destination": "https://entrenaencasahoy.es/guias/rodillos-espuma-recuperacion.html",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparativas/rodillo-de-espuma-para-masaje-de-columna-vs-rodillo-muscular.html",
       "has": [
         {
           "type": "host",
@@ -1282,6 +1326,17 @@
       "statusCode": 301
     },
     {
+      "source": "/productos/par-de-rodillos-de-almohadilla-para-pies-de-espuma-esponjosa-utilizados-para-reemplazar-equipos-de-ejercicio-de-gimnasio-adecuados-para-varillas-de-b0chf79cdy.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "entrena-en-casa-beige.vercel.app"
+        }
+      ],
+      "destination": "https://entrenaencasahoy.es/guias/rodillos-espuma-recuperacion.html",
+      "statusCode": 301
+    },
+    {
       "source": "/(.*)",
       "has": [
         {
@@ -1593,6 +1648,21 @@
       "permanent": true
     },
     {
+      "source": "/comparativas/par-de-rodillos-de-almohadilla-para-pies-vs-magic-select-pack-rodillo.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/par-de-rodillos-de-almohadilla-para-pies-vs-rodillo-de-espuma-para-masaje-de-columna.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/par-de-rodillos-de-almohadilla-para-pies-vs-rodillo-muscular.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
       "source": "/comparativas/pasyou-banco-de-pesas-ajustable-vs-joroto-md60-banco-de-pesas-ajustable.html",
       "destination": "/guias/banco-entrenamiento.html",
       "permanent": true
@@ -1624,6 +1694,11 @@
     },
     {
       "source": "/comparativas/rad-herramienta-de-liberacion-miofascial-vs-magic-select-rodillo-masajeador-de-espum.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
+      "source": "/comparativas/rodillo-de-espuma-para-masaje-de-columna-vs-rodillo-muscular.html",
       "destination": "/guias/rodillos-espuma-recuperacion.html",
       "permanent": true
     },
@@ -1873,6 +1948,11 @@
       "permanent": true
     },
     {
+      "source": "/productos/par-de-rodillos-de-almohadilla-para-pies-de-espuma-esponjosa-utilizados-para-reemplazar-equipos-de-ejercicio-de-gimnasio-adecuados-para-varillas-de-b0chf79cdy.html",
+      "destination": "/guias/rodillos-espuma-recuperacion.html",
+      "permanent": true
+    },
+    {
       "source": "/:section(guias|blog|comparativas|productos|legal|mejores)/:slug([^/.]+)",
       "destination": "/:section/:slug.html",
       "permanent": true
@@ -1894,6 +1974,18 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests"
         }
       ]
     },
