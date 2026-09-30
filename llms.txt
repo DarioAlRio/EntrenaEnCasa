@@ -1,0 +1,28 @@
+# EntrenaEnCasa
+
+> Guías de compra y comparativas independientes de mancuernas, esterillas, bandas elásticas y equipamiento de fitness para entrenar en casa sin gastar de más.
+
+EntrenaEnCasa publica guías de compra y rankings en español. Los productos se seleccionan entre los más vendidos de Amazon.es y se ordenan por valoración media y número de opiniones de compradores. No se publican precios fijos. Metodología completa: https://entrenaencasahoy.es/sobre-nosotros/
+
+## Rankings
+- [Mejores mancuernas para entrenar en casa](https://entrenaencasahoy.es/mejores/mancuernas-ajustables.html): Ranking 2026 de mancuernas para casa: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores esterilla de yoga o fitness](https://entrenaencasahoy.es/mejores/esterillas-yoga.html): Ranking 2026 de esterillas de yoga y fitness: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores bandas elásticas de resistencia: guía para elegir sin liarte](https://entrenaencasahoy.es/mejores/bandas-elasticas.html): Ranking 2026 de bandas elásticas de resistencia: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores banco de entrenamiento plegable: qué mirar antes de comprar](https://entrenaencasahoy.es/mejores/banco-entrenamiento.html): Ranking 2026 de bancos de entrenamiento: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores comba de saltar y accesorios de cardio para entrenar en casa](https://entrenaencasahoy.es/mejores/accesorios-cardio.html): Ranking 2026 de combas y accesorios de cardio: los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+- [Mejores kettlebells: cómo elegir una pesa rusa para entrenar en casa](https://entrenaencasahoy.es/mejores/kettlebells.html): Ranking 2026 de kettlebells: las 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato. Opiniones reales.
+- [Mejores rodillo de espuma (foam roller): cómo elegir el tuyo](https://entrenaencasahoy.es/mejores/rodillos-espuma-recuperacion.html): Ranking 2026 de rodillos de espuma (foam roller): los 10 mejores según valoraciones reales en Amazon.es, con el mejor calidad-precio y el más barato.
+
+## Guías de compra
+- [Cómo elegir mancuernas para entrenar en casa](https://entrenaencasahoy.es/guias/mancuernas-ajustables.html)
+- [Cómo elegir una esterilla de yoga o fitness](https://entrenaencasahoy.es/guias/esterillas-yoga.html)
+- [Bandas elásticas de resistencia: guía para elegir sin liarte](https://entrenaencasahoy.es/guias/bandas-elasticas.html)
+- [Banco de entrenamiento plegable: qué mirar antes de comprar](https://entrenaencasahoy.es/guias/banco-entrenamiento.html)
+- [Comba de saltar y accesorios de cardio para entrenar en casa](https://entrenaencasahoy.es/guias/accesorios-cardio.html)
+- [Kettlebells: cómo elegir una pesa rusa para entrenar en casa](https://entrenaencasahoy.es/guias/kettlebells.html)
+- [Rodillo de espuma (foam roller): cómo elegir el tuyo](https://entrenaencasahoy.es/guias/rodillos-espuma-recuperacion.html)
+
+## Sobre el sitio
+- [Sobre nosotros y metodología](https://entrenaencasahoy.es/sobre-nosotros/)
+- [Contacto](https://entrenaencasahoy.es/contacto/)
+- [Política de afiliación](https://entrenaencasahoy.es/legal/afiliacion.html)
